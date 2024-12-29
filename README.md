@@ -1,2 +1,3 @@
 # Minecraft-Desert-craft
-Minecraft Desert craft - Minecraft Modpack
+
+**基于 KubeJS 的 Minecraft 整合包 | A Minecraft modpack based on KubeJS**
