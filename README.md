@@ -2,7 +2,7 @@
 
 **A Minecraft modpack based on KubeJS | 基于 KubeJS 的 Minecraft 整合包**
 
-> [!TIPS]
+> [!TIP]
 > 一个 Minecraft 整合包
 
 > [!CAUTION]
